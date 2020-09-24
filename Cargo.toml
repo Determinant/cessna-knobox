@@ -27,7 +27,7 @@ version = "0.6.1"
 features = ["stm32f103", "rt", "stm32-usbd"]
 
 [[bin]]
-name ="knobox"
+name ="cessna-knobox"
 path = "src/app.rs"
 
 [profile.release]
