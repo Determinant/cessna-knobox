@@ -12,13 +12,24 @@ Ted's Cessna Knobox
 Materials
 ---------
 
-- a friction-locked throttle knob (I used )
-- a vernier-style mixer knob (I used )
-- hardboard, 3.5mm in thickness
-- M3 screws x4 for securing the potentiometers to the holders
-- M2 screws x4 for securing the knob ends to the potentiometer sliders
-- (M2.5/M3 screws + nuts) x4 for securing the holders to the enclosure
-- you'll need to laster-cut the hardboard and 3D-print the holders/sliders
+- Part I (mechanical)
+
+  - a friction-locked throttle knob (I used `A820 <https://www.aircraftspruce.com/catalog/appages/a820.php>`_)
+  - a vernier-style mixer knob (I used `A790 <https://www.aircraftspruce.com/catalog/appages/a7902.php>`_)
+  - hardboard, 3.5mm in thickness
+  - M3 screws x4 for securing the potentiometers to the holders
+  - M2 screws x4 for securing the knob ends to the potentiometer sliders
+  - (M2.5/M3 screws + nuts) x4 for securing the holders to the enclosure
+  - you'll need to laster-cut the hardboard and 3D-print the holders/sliders
+
+- Part II (circuitry)
+
+  - stmf103c8t6 board & ST-link programmer (something like https://www.ebay.com/itm/2pcs-STM32F103C8T6-ARM-STM32-Development-Board-Module-Blue-Pill-ST-Link-V2-USA/292168190439)
+  - slide potentiometer (10K, 88mm in length, https://www.amazon.com/gp/product/B07QVQ67MV/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+  - 3 SPDT switches + 1 SPDT toggle switch
+  - 5 resistors (15K)
+  - micro-USB to USB type-A cable (https://www.ebay.com/itm/90-Degree-Left-Angled-Micro-USB-5pin-Male-to-USB-B-Female-Panel-Mount-Type-Cable/162358249642)
+  - (optional) mounting jig (https://www.amazon.com/gp/product/B07BHXXR4D/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 works very well, but you'll need to drill the holes yourself)
 
 3D Printed Components
 ---------------------
