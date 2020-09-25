@@ -54,7 +54,7 @@ Circuitry
 .. raw:: html
 
     <div align="center">
-    <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/cessna-knobox-circuit.svg" width="70%">
+    <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/cessna-knobox-circuit.svg" width="40%">
     </div>
 
 
