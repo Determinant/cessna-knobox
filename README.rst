@@ -1,6 +1,14 @@
 Ted's Cessna Knobox
 ===================
 
+.. raw:: html
+
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/front.jpg" width="70%">
+    <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/internal.jpg" width="70%">
+    </div>
+
+
 Materials
 ---------
 
@@ -46,7 +54,7 @@ Circuitry
 .. raw:: html
 
     <div align="center">
-    <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/cessna-knobox-circuit.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/cessna-knobox-circuit.svg" width="70%">
     </div>
 
 
