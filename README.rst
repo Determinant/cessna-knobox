@@ -6,6 +6,7 @@ Ted's Cessna Knobox
     <div align="center">
     <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/front.jpg" width="70%">
     <img src="https://raw.githubusercontent.com/Determinant/cessna-knobox/master/internal.jpg" width="70%">
+    Video demo: https://www.reddit.com/r/flightsim/comments/iyrxqb/diy_cessna_control_under_200/
     </div>
 
 
